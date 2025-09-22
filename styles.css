@@ -1,0 +1,8 @@
+body{
+    background-color: rgba(114, 5, 5, 0.959);
+}
+.btn{
+    background-color: rgba(32, 39, 28, 0.945);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(240, 240, 240);
+}
